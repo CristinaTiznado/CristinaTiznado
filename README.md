@@ -23,7 +23,23 @@
 
 ## 🛠️ Proyectos
 
+### 🔐 Ciberseguridad
+**[Análisis de SQL Injection en DVWA](https://github.com/CristinaTiznado/Desafio-SQL-Injection/tree/main)**  
+Estudio práctico de vulnerabilidades SQL Injection en entorno controlado. Identificación de campos vulnerables, explotación con consultas maliciosas y extracción de información.
 
+*Tecnologías: DVWA, MySQL, SQL Injection*
+
+---
+
+### 📊 Análisis de Datos
+*Próximamente...* 🚧
+
+---
+
+### 🌐 Desarrollo Web  
+*Próximamente...* 🚧
+
+---
 ## 📫 Contactame!
 <a href="https://www.linkedin.com/in/cristina-tiznado/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:cristina.tiznado7@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
