@@ -29,7 +29,7 @@ Estudio práctico de vulnerabilidades SQL Injection en entorno controlado. Ident
 
 *Tecnologías: DVWA, MySQL, SQL Injection*
 
-**[Configuración de Redes y Roles](https://github.com/CristinaTiznado/Desafio-Conf-Redes-y-Roles)** <br>
+**[Configuración de Redes y Roles Web](https://github.com/CristinaTiznado/Desafio-Conf-Redes-y-Roles)** <br>
 Estudio práctico de configuración de roles HTTP (IIS) y FTP en Windows Server 2019. Verificación de funcionalidad de ambos servicios local y remotamente, incluyendo la modificación de la página de bienvenida y la transferencia de archivos bidireccional.
 
 *Tecnologías: Windows Server 2019, IIS, FTP, VMWare, Debian 11*
